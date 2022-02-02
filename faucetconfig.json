@@ -1,0 +1,21 @@
+{
+    "asset": {
+        "issuer": "GAB4YW6ZBV73IFQDSVYGKOXTLWX67LUDXRAXHUW2U5EXIFCMAWYHEHL7",
+        "name": "Ananos"
+    },
+    "toddAsset": {
+        "issuer": "GDUQEOQHTJ2QJEQMOUTY7ZIHFKOWWJVBIYJW4T7TMDGB2VZEEJJ2LPVP",
+        "name": "TODD"
+    },
+    "manangoAsset": {
+        "issuer": "GCAD56MX3VL4YE3KIXPOWOMHTQYJOPYP7UQUQ2CAJQV4NYZ3566CAGKM",
+        "name": "Manangos"
+    },
+    "distributor": {
+        "public": "public key",
+        "private": "private key"
+    },
+    "public": true,
+    "totalTx": 200,
+    "amountToSend": "200"
+}
